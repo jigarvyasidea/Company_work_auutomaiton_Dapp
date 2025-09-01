@@ -1,0 +1,25 @@
+langchain_groq
+langchain
+langchain_huggingface
+langchain_community
+fastapi
+uvicorn
+psycopg2-binary
+pgvector
+pydantic
+python-dotenv
+requests
+datetime
+tiktoken
+numpy
+
+#addition need vo wale 
+langchain_postgres
+boto3
+
+
+langgraph
+
+
+sentence-transformers
+
